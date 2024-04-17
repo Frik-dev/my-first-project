@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project on GitHub
+# Python for beginners repository
+This repository is used for learning and practicing python for beginners to advanced 
